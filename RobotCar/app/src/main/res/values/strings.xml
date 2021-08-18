@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RobotCar</string>
+    <string name="robot_car">ROBOT CAR</string>
+    <string name="enter_the_ip_address">Enter the IP address:</string>
+    <string name="tilt_your_phone_left_or_right_to_make_the_robot_move">Tilt your phone left or right to make the robot move</string>
+    <string name="save">Save</string>
+</resources>
