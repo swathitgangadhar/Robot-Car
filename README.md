@@ -1,5 +1,5 @@
 # Robot-Car
-Controlling the movement of the Car with an Orientation sensor of the Android phone. 
+Controlling the movement of the Car with an Orientation sensor on the Android phone. 
 
 # Working system:
 The idea behind the Robot car to operate the car with the simple use of movements from an Android device. This project involves two types of methods of moving the robot, which is Automatic mode and Manual mode. In the Automatic mode, the robot is made to follow the line using the PID controller. whereas in the Manual mode, the robot is controlled using the Orientation sensor in the Android device. The switch between the two of them is handled in the Android app. The  MQTT server is used to communicate with the Android app and the robot.
